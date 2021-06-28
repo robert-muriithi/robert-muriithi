@@ -2,7 +2,8 @@
 ![image](https://user-images.githubusercontent.com/71088165/123682202-61d27600-d853-11eb-9dba-3b719886ab8a.png)
 
 
-
+I am an android developer based in Kenya
+Currently at school learning
  
 
 <!--
