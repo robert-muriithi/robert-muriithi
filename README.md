@@ -4,7 +4,7 @@
 
 
 I am an android developer based in Kenya
-Currently at school learning
+Currently at school 
  
 
 <!--
