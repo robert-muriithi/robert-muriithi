@@ -1,7 +1,4 @@
 ### Hi there 👋 this is Bob
-![image](https://user-images.githubusercontent.com/71088165/123682860-3d2ace00-d854-11eb-8f90-b0dbdce57d89.png)
-
-
 
 I am an android developer based in Kenya
 Currently at school 
