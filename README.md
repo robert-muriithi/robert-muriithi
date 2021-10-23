@@ -2,23 +2,17 @@
 
 I am an android developer based in Kenya
 Currently at school 
- 
 
-<!--
-**robert-muriithi/robert-muriithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-muriithi&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently at school 
+- 🌱 I’m currently learning Swift
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about anything
+- 📫 How to reach me: +254790027948
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-muriithi&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-muriithi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
