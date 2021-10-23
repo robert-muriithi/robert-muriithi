@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
-- 📫 How to reach me: +254790027948
+- 📫 How to reach me: +254790027948 || njuguiinirobert@gmail.com
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robert-muriithi&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
