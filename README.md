@@ -12,12 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: +254790027948 || njuguiinirobert@gmail.com
 
-
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robert-muriithi&count_private=true&show_icons=true&theme=radical" />
 </a>
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-muriithi&layout=compact" />
 </a>
+</div>
