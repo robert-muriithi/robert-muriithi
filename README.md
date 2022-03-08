@@ -1,4 +1,4 @@
-### Hi there 👋 this is Bob
+### Hi there 👋 this is Robert
 
 I am an android developer based in Kenya
 Currently at school 
