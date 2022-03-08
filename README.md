@@ -5,12 +5,11 @@ Currently at school
 
 ![github](https://img.shields.io/github/followers/robert-muriithi?style=plastic)
 
-Here are some ideas to get you started:
+Here is some info about me:
 
 - 🔭 I’m currently at school 
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything
 - 📫 How to reach me: +254790027948 || njuguiinirobert@gmail.com
 
 <center>
