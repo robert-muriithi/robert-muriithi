@@ -3,6 +3,7 @@
 I am an android developer based in Kenya
 Currently at school 
 
+![github](https://img.shields.io/github/followers/Ericgacoki?style=plastic)
 
 Here are some ideas to get you started:
 
