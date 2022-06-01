@@ -8,7 +8,7 @@ Currently at school
 Here is some info about me:
 
 - 🔭 I’m currently at school 
-- 🌱 I’m currently learning Swift
+- 🌱 Ask me any question 😃
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: +254790027948 || njuguiinirobert@gmail.com
 
