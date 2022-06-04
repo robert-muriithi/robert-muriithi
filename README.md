@@ -4,6 +4,7 @@ I am an android developer based in Kenya
 Currently at school 
 
 ![github](https://img.shields.io/github/followers/robert-muriithi?style=plastic)
+[![wakatime](https://wakatime.com/badge/user/b7e9e1ab-bbbb-45ed-9ff6-db895ddb72fb.svg)](https://wakatime.com/@b7e9e1ab-bbbb-45ed-9ff6-db895ddb72fb)
 
 Here is some info about me:
 
