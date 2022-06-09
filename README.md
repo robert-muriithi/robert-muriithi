@@ -9,9 +9,10 @@ Currently at school
 Here is some info about me:
 
 - 🔭 I’m currently at school 
-- 🌱 Ask me any question 😃
-- 👯 I’m looking to collaborate on open source projects
+- 🌱 Technical Writer at Section.io. Here is the link to my [published articles](https://www.section.io/engineering-education/authors/robert-muriithi/)
+- 👯 Obsessed With Android Native Development 
 - 📫 How to reach me: +254790027948 || njuguiinirobert@gmail.com
+- 🌱 Here is the link to my [CV](https://1drv.ms/w/s!AtJ71cK0ljb-hCkriIaZbkgF36ng) 
 
 <center>
   <table>
