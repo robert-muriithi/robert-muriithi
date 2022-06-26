@@ -5,6 +5,7 @@ Currently at school
 
 ![github](https://img.shields.io/github/followers/robert-muriithi?style=plastic)
 [![wakatime](https://wakatime.com/badge/user/b7e9e1ab-bbbb-45ed-9ff6-db895ddb72fb.svg)](https://wakatime.com/@b7e9e1ab-bbbb-45ed-9ff6-db895ddb72fb)
+![](https://komarev.com/ghpvc/?username=robert-muriithi&color=blue)
 
 Here is some info about me:
 
