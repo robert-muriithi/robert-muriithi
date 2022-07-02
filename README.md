@@ -13,7 +13,7 @@ Here is some info about me:
 - 🌱 Technical Writer at Section.io. Here is the link to my [published articles](https://www.section.io/engineering-education/authors/robert-muriithi/)
 - 👯 Obsessed With Android Native Development 
 - 📫 How to reach me: +254790027948 || njuguiinirobert@gmail.com
-- 🌱 Here is the link to my [CV](https://1drv.ms/w/s!AtJ71cK0ljb-hCkriIaZbkgF36ng) 
+- 🌱 Here is the link to my [Resume](https://1drv.ms/w/s!AtJ71cK0ljb-hCkriIaZbkgF36ng) 
 
 <center>
   <table>
