@@ -19,7 +19,8 @@ Here is some info about me:
   <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=robert-muriithi&count_private=true&show_icons=true&theme=radical" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-muriithi&layout=compact" /></td>      
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robert-muriithi&layout=compact" /></td>   
+        
     </tr>   
   </table>
 </center>
