@@ -9,7 +9,7 @@ Currently at school
 
 Here is some info about me:
 
-- 🔭 I’m currently at school 
+- 🔭 Open to work
 - 🌱 Technical Writer at Section.io. Here is the link to my [published articles](https://www.section.io/engineering-education/authors/robert-muriithi/)
 - 👯 Obsessed With Mobile Development 
 - 📫 How to reach me: +254790027948 || njuguiinirobert@gmail.com
