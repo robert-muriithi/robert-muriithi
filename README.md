@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
--🔭  - Open to work<br>- 🌱 - Technical Writer at Section.io. Here is the link to my [published articles](https://www.section.io/engineering-education/authors/robert-muriithi/)<br>- 👯 - Obsessed With Mobile Development <br>- 📫 - How to reach me: +254790027948 || njuguiinirobert@gmail.com<br>- 🌱 - Link to my [portifolio](https://robert-muriithi.github.io/Portifolio/)
+-🔭  - Open to work<br>- 🌱 - Technical Writer at Section.io. Here is the link to my [published articles](https://www.section.io/engineering-education/authors/robert-muriithi/)<br>- 👯 - Obsessed With Mobile Development <br>- 📫 - How to reach me: +254790027948 || njuguiinirobert@gmail.com<br> 
 
 
 # 💻 Tech Stack:
