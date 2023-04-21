@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
--🔭  - Open to work<br>- 🌱 - Technical Writer at Section.io. Here is the link to my [published articles](https://www.section.io/engineering-education/authors/robert-muriithi/)<br>- 👯 - Obsessed With Mobile Development <br>- 📫 - How to reach me: njuguiinirobert@gmail.com<br> 
+-🔭  - Open to work<br>- 👯 - Open to work and collaborate to open-source projects<br>- 📫 - How to reach me: njuguiinirobert@gmail.com<br> 
 
 
 # 💻 Tech Stack:
