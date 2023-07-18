@@ -5,10 +5,10 @@
 
 
 # 💫 About Me:
--🔭  - Open to work<br>- 
-👯 - Open to work and collaborate to open-source projects<br>- 
-📫 - How to reach me: njuguiinirobert@gmail.com<br> 
-💫 - Currently learning SpringBoot
+- 🔭  Open to work
+- 👯  Open to work and collaborate to open-source projects 
+- 📫  How to reach me: njuguiinirobert@gmail.com
+- 💫  Currently learning SpringBoot
 
 
 # 💻 Tech Stack:
