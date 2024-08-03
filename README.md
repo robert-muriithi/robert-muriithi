@@ -16,14 +16,6 @@
 | ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |  
 
 
-
-
-# 📊 GitHub Stats:
-
-| Stats | Contributions |
-| ------ | ------ |
-| ![](https://github-readme-stats.vercel.app/api?username=robert-muriithi&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=robert-muriithi&theme=dark&hide_border=false) |
-
 | Languages | ✍️ Random Dev Quote |
 | ------ | ------ |
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=robert-muriithi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
